@@ -1,0 +1,22 @@
+{
+  "name": "consultancy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matt007/consultancy.git"
+  },
+  "author": "Matt Brandt <matt@travelcoup.com> (www.travelcoup.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matt007/consultancy/issues"
+  },
+  "homepage": "https://github.com/Matt007/consultancy#readme",
+  "dependencies": {
+    "matts-toolbox": "git+https://github.com/Matt007/MattsToolbox.git"
+  }
+}
